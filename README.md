@@ -110,10 +110,3 @@ This project is licensed under the [MIT License](LICENSE).
 Developed by Aditya Vernekar
 ```
 
----
-
-### Notes:
-- Update the `git` URL in the `git clone` command to match your repository's actual URL.
-- Add specific details (e.g., dependencies, environment variables) to the README if necessary.
-
-Let me know if you'd like help customizing further!
