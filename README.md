@@ -77,7 +77,7 @@ The backend will start on `http://localhost:5000` (or another port, as configure
 In a separate terminal, navigate to the frontend directory and run:
 ```bash
 cd frontend
-npm start
+npm run preview
 ```
 The frontend will start on `http://localhost:3000` (by default).
 
